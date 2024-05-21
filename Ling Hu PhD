@@ -1,6 +1,1 @@
-git clone https://github.com/linghu114/linghu.github.io.git
-cd linghu.github.io
-echo "Ling Hu PhD" > index.html
-git add --all
-git commit -m “Initial commit"
-git push -u origin main
+git clone https://github.com/linghu114/linghu.github.io
